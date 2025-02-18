@@ -1,0 +1,15 @@
+artifact_uri: /mnt/c/Users/simran.kumari/pydataberlin-2019/mlruns/0/977db3df5fb74844a8ede937225ac84b/artifacts
+end_time: 1739811034721
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 977db3df5fb74844a8ede937225ac84b
+run_name: clumsy-dog-36
+run_uuid: 977db3df5fb74844a8ede937225ac84b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739810799816
+status: 3
+tags: []
+user_id: simran

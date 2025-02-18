@@ -1,9 +1,11 @@
 channels:
-- defaults
+  - defaults
+  - conda-forge
 dependencies:
-- python=3.6.8
-- scikit-learn=0.21.3
-- pip:
-  - mlflow
-  - cloudpickle==1.2.2
+  - python=3.12.8
+  - scikit-learn>=1.0.0  # Updated for Python 3.12 compatibility
+  - pip
+  - pip:
+    - mlflow>=2.9.0  # Use recent MLflow version
+    - cloudpickle>=2.0.0  # Updated version
 name: mlflow-env

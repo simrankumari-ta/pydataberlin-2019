@@ -1,0 +1,15 @@
+artifact_uri: /mnt/c/Users/simran.kumari/pydataberlin-2019/mlruns/0/adef9364ae394da1b4aa7dc30cedbf33/artifacts
+end_time: 1739819457724
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: adef9364ae394da1b4aa7dc30cedbf33
+run_name: enthused-duck-841
+run_uuid: adef9364ae394da1b4aa7dc30cedbf33
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739819356983
+status: 3
+tags: []
+user_id: simran

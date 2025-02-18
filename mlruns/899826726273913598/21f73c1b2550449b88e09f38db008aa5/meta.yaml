@@ -1,0 +1,15 @@
+artifact_uri: /mnt/c/Users/simran.kumari/pydataberlin-2019/mlruns/899826726273913598/21f73c1b2550449b88e09f38db008aa5/artifacts
+end_time: 1739809365798
+entry_point_name: ''
+experiment_id: '899826726273913598'
+lifecycle_stage: active
+run_id: 21f73c1b2550449b88e09f38db008aa5
+run_name: shivering-bird-786
+run_uuid: 21f73c1b2550449b88e09f38db008aa5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739809326734
+status: 3
+tags: []
+user_id: simran

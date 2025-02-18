@@ -1,0 +1,15 @@
+artifact_uri: /mnt/c/Users/simran.kumari/pydataberlin-2019/mlruns/899826726273913598/83844dd0ded44f86b0e4546dca330e38/artifacts
+end_time: 1739809326390
+entry_point_name: ''
+experiment_id: '899826726273913598'
+lifecycle_stage: active
+run_id: 83844dd0ded44f86b0e4546dca330e38
+run_name: classy-crane-51
+run_uuid: 83844dd0ded44f86b0e4546dca330e38
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739809289391
+status: 3
+tags: []
+user_id: simran

@@ -1,0 +1,15 @@
+artifact_uri: /mnt/c/Users/simran.kumari/pydataberlin-2019/mlruns/0/b3a354da3dbd4e0280e99ca0c1e6d3fc/artifacts
+end_time: 1739856401431
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b3a354da3dbd4e0280e99ca0c1e6d3fc
+run_name: bold-hare-636
+run_uuid: b3a354da3dbd4e0280e99ca0c1e6d3fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739856200856
+status: 3
+tags: []
+user_id: simran

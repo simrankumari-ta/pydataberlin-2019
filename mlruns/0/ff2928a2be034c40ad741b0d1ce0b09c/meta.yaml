@@ -1,0 +1,15 @@
+artifact_uri: /mnt/c/Users/simran.kumari/pydataberlin-2019/mlruns/0/ff2928a2be034c40ad741b0d1ce0b09c/artifacts
+end_time: 1739817871345
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ff2928a2be034c40ad741b0d1ce0b09c
+run_name: charming-ape-909
+run_uuid: ff2928a2be034c40ad741b0d1ce0b09c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739817800401
+status: 3
+tags: []
+user_id: simran

@@ -1,0 +1,15 @@
+artifact_uri: /mnt/c/Users/simran.kumari/pydataberlin-2019/mlruns/899826726273913598/3420e687d563418680620bbdf00e3c56/artifacts
+end_time: 1739819233432
+entry_point_name: ''
+experiment_id: '899826726273913598'
+lifecycle_stage: active
+run_id: 3420e687d563418680620bbdf00e3c56
+run_name: beautiful-boar-166
+run_uuid: 3420e687d563418680620bbdf00e3c56
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739819094052
+status: 3
+tags: []
+user_id: simran

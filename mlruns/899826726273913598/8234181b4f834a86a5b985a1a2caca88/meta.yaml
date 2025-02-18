@@ -1,0 +1,15 @@
+artifact_uri: /mnt/c/Users/simran.kumari/pydataberlin-2019/mlruns/899826726273913598/8234181b4f834a86a5b985a1a2caca88/artifacts
+end_time: 1739809288994
+entry_point_name: ''
+experiment_id: '899826726273913598'
+lifecycle_stage: active
+run_id: 8234181b4f834a86a5b985a1a2caca88
+run_name: classy-mule-562
+run_uuid: 8234181b4f834a86a5b985a1a2caca88
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739809200344
+status: 3
+tags: []
+user_id: simran
